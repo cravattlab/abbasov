@@ -1,0 +1,10 @@
+[package]
+name = "cimage"
+version = "0.1.0"
+authors = ["Michael Lazear <lazear@scripps.edu>"]
+edition = "2018"
+
+[dependencies]
+rayon = "1.0"
+memchr = "2.2"
+uniprot = { path = "../uniprot" }

@@ -1,0 +1,8 @@
+[package]
+name = "uniprot"
+version = "0.2.0"
+authors = ["Michael Lazear <lazear@scripps.edu>"]
+edition = "2018"
+
+[dependencies]
+memchr = "*"

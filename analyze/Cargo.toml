@@ -1,0 +1,10 @@
+[package]
+name = "analyze"
+version = "0.1.0"
+authors = ["Michael Lazear <lazear@scripps.edu>"]
+edition = "2018"
+
+[dependencies]
+cimage = { path = "../cimage" }
+uniprot = { path = "../uniprot" }
+rayon = "1.0"

@@ -1,0 +1,9 @@
+/target
+/data
+**/*.rs.bk
+Cargo.lock
+*.xlsx
+.vscode/
+*.csv
+*.txt
+*.tsv
